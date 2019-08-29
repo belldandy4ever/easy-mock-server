@@ -1,0 +1,652 @@
+[
+    {
+        "id": "f65feaba2274494281cb3b33fcaf448d",
+        "name": "智慧产业集团",
+        "code": "123456",
+        "type": "1",
+        "grade": "1",
+        "childrenList": [
+            {
+                "id": "1bb1a14be67e4c60bdd4b2066924489f",
+                "name": "市场营销中心",
+                "code": "123456001",
+                "type": "1",
+                "grade": "1",
+                "childrenList": [
+                    {
+                        "id": "332cbd6a86cf41608b1acd5de27d768e",
+                        "name": "战略业务发展部",
+                        "code": "123456001003",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "35a0a8cb9b9844f7b514d50b196a325e",
+                        "name": "智能港口业务部",
+                        "code": "123456001002",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "8234143a0e8f4ebc9f04ae712e0f65c6",
+                        "name": "智慧城市业务部",
+                        "code": "123456001001",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "a6a8b6fdc32d48c5a1b016a66fafca35",
+                        "name": "综合事务管理部",
+                        "code": "123456001004",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    }
+                ]
+            },
+            {
+                "id": "4884e73b6962416cb5d55e042cd1919e",
+                "name": "项目管控中心",
+                "code": "123456002",
+                "type": "1",
+                "grade": "1",
+                "childrenList": [
+                    {
+                        "id": "3b3eeafc51064c2293aea7269c603839",
+                        "name": "智慧城市项目部",
+                        "code": "123456002002",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "714e826281a34fa689e128cc3eb056f1",
+                        "name": "生产计划部",
+                        "code": "123456002003",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "be1c0b3002ad4a28b506b59d7c2c1fda",
+                        "name": "智能港口项目部",
+                        "code": "123456002005",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "daed2c96572d42fbbe9b4f8b1338aa62",
+                        "name": "综合事务管理部",
+                        "code": "123456002001",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "f892f306a27d46e28c6e2d2930c07aaa",
+                        "name": "预算考核部",
+                        "code": "123456002004",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    }
+                ]
+            },
+            {
+                "id": "7d1d215a7f034f34a24b46030ddeab1a",
+                "name": "QHSE小组",
+                "code": "",
+                "type": "2",
+                "grade": "1",
+                "childrenList": []
+            },
+            {
+                "id": "7d6f1f79913a45939935dff0afcd663e",
+                "name": "综合事务管理中心",
+                "code": "123456004",
+                "type": "1",
+                "grade": "1",
+                "childrenList": [
+                    {
+                        "id": "40d3e592c8894319a93c9af179bc26f6",
+                        "name": "战略与科技管理部",
+                        "code": "123456004003",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "7f43ca753e364d729a0e93fbd118857e",
+                        "name": "人事部",
+                        "code": "123456004001",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "a54ade1e2eb34a7c86e1713e4c92f317",
+                        "name": "党群部",
+                        "code": "123456004004",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "a86224b2cf944c61873106875efaeb41",
+                        "name": "行政部",
+                        "code": "123456004002",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    }
+                ]
+            },
+            {
+                "id": "9664dd61ad0f469baa600462395c7a94",
+                "name": "港机重工",
+                "code": "123456007",
+                "type": "1",
+                "grade": "1",
+                "childrenList": []
+            },
+            {
+                "id": "99d83b4ae6864a2c9bc00d212b440c5d",
+                "name": "城市停车事业部",
+                "code": "",
+                "type": "1",
+                "grade": "1",
+                "childrenList": [
+                    {
+                        "id": "360fa9dc0b124c969f9872379ac5bc2b",
+                        "name": "停车设备研发部",
+                        "code": "006",
+                        "type": "2",
+                        "grade": "2",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "55c7ce14df7a42bb876a902febc10c15",
+                        "name": "市场与投资发展部",
+                        "code": "",
+                        "type": "2",
+                        "grade": "2",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "5fddf34a37994f7692cb83547b49fd92",
+                        "name": "系统方案设计部",
+                        "code": "004",
+                        "type": "2",
+                        "grade": "2",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "6bebfe9228f545d9ae004591ae686e31",
+                        "name": "软件部",
+                        "code": "",
+                        "type": "2",
+                        "grade": "2",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "6d55116e63f840c59ed20db4bd659a8c",
+                        "name": "电气系统部",
+                        "code": "",
+                        "type": "2",
+                        "grade": "2",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "e42abe1973ad43c58ab874c4c43bad0a",
+                        "name": "工程项目部",
+                        "code": "005",
+                        "type": "2",
+                        "grade": "2",
+                        "childrenList": []
+                    }
+                ]
+            },
+            {
+                "id": "b5e590daa69f44f389bfc3434c3d56eb",
+                "name": "智能软件公司",
+                "code": "123456005",
+                "type": "1",
+                "grade": "1",
+                "childrenList": [
+                    {
+                        "id": "0a77df0aeb844ba6a6681514a7cb857a",
+                        "name": "平台研发部",
+                        "code": "123456005009",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": [
+                            {
+                                "id": "3c686f11c4124a79b84b66103016c24c",
+                                "name": "数据采集小组",
+                                "code": "123456005009001",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "d09e00ff3bf644c39c56f610a106bb53",
+                                "name": "数据展示小组",
+                                "code": "123456005009002",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "12da17b146a34055b550a8be7784f87c",
+                        "name": "港口软件研发部",
+                        "code": "123456005004",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": [
+                            {
+                                "id": "27d7e201deaa451392f0d016a238bb18",
+                                "name": "JAVA综合研发组",
+                                "code": "123456005004004",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "2f8c2c8373174a43ae346483232506e9",
+                                "name": "GUI开发组",
+                                "code": "123456005004005",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "87e3c784372b4f93b41623c6b1084f1a",
+                                "name": "港航软件组",
+                                "code": "123456005004002",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "a6cc33d117054c0285884a60c8925588",
+                                "name": "调度系统组",
+                                "code": "123456005004001",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "a7f13c225b324e5ca95eec52083cac1e",
+                                "name": "调度系统组",
+                                "code": "123456005004003",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "badcd963060f4c1bb54ae29ebae26ad7",
+                                "name": "KPI小组",
+                                "code": "123456005004006",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "3cc358df70b34c298c8f1fb4be3834f5",
+                        "name": "项目实施部",
+                        "code": "123456005003",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": [
+                            {
+                                "id": "32c7aa77fc9a479ab1ecb2212e5d3d40",
+                                "name": "青岛实施组",
+                                "code": "123456005003004",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "5976ce8fb83b43508dcec7bc452ffebf",
+                                "name": "系统分析组",
+                                "code": "123456005003005",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "70b9eb9f0f2c46eca486acbc58797a24",
+                                "name": "系统集成组",
+                                "code": "123456005003001",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "b8b2402fb63c449296e238ca0b2167f7",
+                                "name": "项目实施组",
+                                "code": "123456005003003",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "c87c42b0b2744603bddb957f0f585490",
+                                "name": "系统监控组",
+                                "code": "123456005003002",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "42cdaa1e72f14e61983993d600950753",
+                        "name": "综合事务管理部",
+                        "code": "123456005002",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": [
+                            {
+                                "id": "21178ae52562498ea999f7f7cfeaa4a5",
+                                "name": "综合管理组",
+                                "code": "123456005002001",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "53eb6e903c1744dabb5d576119829570",
+                        "name": "交通软件研发部",
+                        "code": "123456005006",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": [
+                            {
+                                "id": "b72ef94983cc4e71b72ac4feb0570d0f",
+                                "name": "路径规划算法组",
+                                "code": "123456005006002",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "dea78b2ed7ba4bd788428a7f7c1256eb",
+                                "name": "HT",
+                                "code": "123456005006001",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "5eed32c42842467081e3089041807c1b",
+                        "name": "市场部",
+                        "code": "123456005008",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "7daff62f90d941859019e1ddc42691ec",
+                        "name": "质量管理部",
+                        "code": "123456005005",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": [
+                            {
+                                "id": "050a53818df24303ac5a365ea65491ec",
+                                "name": "QA组",
+                                "code": "123456005005003",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "3505df3f93fe4d68a647d38649a59839",
+                                "name": "CM组",
+                                "code": "123456005005002",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "a48749f990f8474dac85e5363bda546e",
+                                "name": "QC组",
+                                "code": "123456005005001",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9ac1bbc66e114d8c9f685016d432e04d",
+                        "name": "软件集成设计部",
+                        "code": "123456005011",
+                        "type": "2",
+                        "grade": "2",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "c10a0c05e0084053b42711fc3fe5266a",
+                        "name": "规划仿真设计部",
+                        "code": "123456005001",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": [
+                            {
+                                "id": "cfd777a22b1c46819fc6eba48f0ff510",
+                                "name": "模拟小组",
+                                "code": "123456005001001",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "de11a9b521b44279bce5fc4db38fe346",
+                                "name": "仿真小组",
+                                "code": "123456005001002",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "e2adec4419874509b442d72880164544",
+                        "name": "装备软件研发部",
+                        "code": "123456005007",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": [
+                            {
+                                "id": "8925b5cdd92e4590b95d86c68a9fceab",
+                                "name": "YC小组",
+                                "code": "123456005007001",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            },
+                            {
+                                "id": "e675cf13422448cabba5a09f61f08166",
+                                "name": "QC小组",
+                                "code": "123456005007002",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "f63ed807a1f04ccda3729908d51e2d40",
+                        "name": "武汉研发部",
+                        "code": "123456005010",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": [
+                            {
+                                "id": "6093b35df15d45e8b475c0e64e6548ef",
+                                "name": "武汉办事处",
+                                "code": "123456005010001",
+                                "type": "3",
+                                "grade": "1",
+                                "childrenList": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "ec41da574b4547ad9691de54f22e123e",
+                "name": "智能系统运营维护公司",
+                "code": "123456006",
+                "type": "1",
+                "grade": "1",
+                "childrenList": [
+                    {
+                        "id": "4901f268259c412f88803b54f6e5b130",
+                        "name": "项目管理部",
+                        "code": "123456006002",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "c289ba0d06dc4c85990ce788bed951a2",
+                        "name": "运营维保部",
+                        "code": "123456006001",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    }
+                ]
+            },
+            {
+                "id": "fa977735ecee4a5e981ead808fa766e1",
+                "name": "技术研发中心",
+                "code": "123456003",
+                "type": "1",
+                "grade": "1",
+                "childrenList": [
+                    {
+                        "id": "8336772bf2044f22a13aa1caff2d0d4b",
+                        "name": "智能识别研发部",
+                        "code": "123456003003",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "ae4cb82a1a744e4680982d54fedec875",
+                        "name": "智慧城市系统部",
+                        "code": "123456003005",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "bfb15715001c48e89354ca3482c2ad0c",
+                        "name": "智能港口系统部",
+                        "code": "123456003002",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "c05c71664a234e1c8d0a379eef671b5b",
+                        "name": "基础技术研发部",
+                        "code": "123456003001",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "c233b4dfb2b846d887246cc9ef2ca383",
+                        "name": "综合事务管理部",
+                        "code": "123456003008",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "c92943320c53449dbc9329bea7cb5c4b",
+                        "name": "停车与物流系统部",
+                        "code": "123456003006",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "d72d0a6ac2b14d8aa54a0a83604068d1",
+                        "name": "吊具技术开发部",
+                        "code": "123456003004",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "dcdb54f934c740429e5e1ff163915cd0",
+                        "name": "搬运设备设计部",
+                        "code": "123456003007",
+                        "type": "2",
+                        "grade": "1",
+                        "childrenList": []
+                    }
+                ]
+            },
+            {
+                "id": "fe9ccaee48374d8b9ce8a477f825a3f7",
+                "name": "规划仿真部",
+                "code": "123456011",
+                "type": "1",
+                "grade": "1",
+                "childrenList": [
+                    {
+                        "id": "5125fe8dfe8a49528867d9525471c84e",
+                        "name": "动画传媒部",
+                        "code": "",
+                        "type": "2",
+                        "grade": "2",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "a1f238a653cd4382855a05f53a3b8802",
+                        "name": "规划设计部",
+                        "code": "",
+                        "type": "2",
+                        "grade": "2",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "c83f86b53a5c4f73ae45136e51c4c088",
+                        "name": "仿真平台开发部",
+                        "code": "",
+                        "type": "2",
+                        "grade": "2",
+                        "childrenList": []
+                    },
+                    {
+                        "id": "d4683d3392b240469fd2d5cdd4b3e97e",
+                        "name": "模拟仿真部",
+                        "code": "",
+                        "type": "2",
+                        "grade": "2",
+                        "childrenList": []
+                    }
+                ]
+            }
+        ]
+    }
+]

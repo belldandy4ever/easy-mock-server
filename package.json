@@ -1,0 +1,26 @@
+{
+  "name": "easy-mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belldandy4ever/easy-mock-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belldandy4ever/easy-mock-server/issues"
+  },
+  "homepage": "https://github.com/belldandy4ever/easy-mock-server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mockjs": "^1.0.1-beta3",
+    "morgan": "^1.9.1"
+  }
+}
