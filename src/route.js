@@ -47,11 +47,7 @@ function setJsonToRoute(route, method, filePath){
       if(err){
         return console.log(err)
       }
-      res.json({
-        errcode:0,
-        errmsg:'',
-        data:Mock.mock(JSON.parse(data))
-      })  
+      res.json(Mock.mock(JSON.parse(data)))  
     })
   })
 }
@@ -67,20 +63,9 @@ function setJsToRoute(route,method,filePath){
     if(data && data.total !== undefined && data.data){
       res.header('Access-Control-Expose-Headers', 'pagetotalelements')
       res.set('pagetotalelements',data.total)
-      res.json({
-        errcode:0,
-        errmsg:'',
-        data:{
-          content:data.data,
-          totalElements:data.total
-        }
-      })
+      res.json(data)
     }else{
-      res.json({
-        errcode:0,
-        errmsg:'',
-        data
-      })  
+      res.json(data)  
     }
   })
 }

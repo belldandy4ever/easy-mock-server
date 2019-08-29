@@ -20,10 +20,10 @@ exports.getTableReturnData = function(query,dbData){
     return true
   })
 
-  const page = query.page - 0
-  const pageSize = query.pageSize - 0
+  const page = (query.page || 0) - 0
+  const pageSize = (query.pageSize || 9e9) - 0
   const startIndex = (page * pageSize) 
-  const endIndex = (startIndex + pageSize) >= filteredDb.length ? filteredDb.length - 1 : (startIndex +pageSize) 
+  const endIndex = (startIndex + pageSize) >= filteredDb.length ? filteredDb.length  : (startIndex + pageSize) 
   const res = filteredDb.length < pageSize ? [...filteredDb] : filteredDb.slice(startIndex,endIndex)
   return {
     data:res,
